@@ -6,7 +6,7 @@ This script is implemented using the **smtplib** module which come built-in with
 First of all, Open **config.py** and configure the smtp 
 ![Screenshot_636](https://user-images.githubusercontent.com/69807734/92546376-cfcd9280-f26b-11ea-9bb0-6ac569c27582.png)
 
-That pretty much it for the configuration. After that open **Mailer.py**.  You will get option to choose email format 
+That's pretty much it for the configuration. After that open **Mailer.py**.  You will get option to choose email format 
 ![Screenshot_637](https://user-images.githubusercontent.com/69807734/92546841-f7712a80-f26c-11ea-873e-a0447d67fcbc.png)
 
 After that enter the location of you mail list. Make sure the mail list is such that there is only one email in one line.
